@@ -33,6 +33,11 @@ main {
   perspective: 1000px;
 }
 
+.wrapper h3 {
+  text-align: center;
+  margin-bottom: 6px;
+}
+
 .wrapper .card {
   height: 100%;
   width: 100%;
